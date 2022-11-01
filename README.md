@@ -1,12 +1,10 @@
 
 
-## Install
-
-### Clone the repository
+## Install p
 
 ```bash
-https://github.com/shahnawaz-ror/test_driver_task.git
-cd test_driver_tas
+https://github.com/subhash-rordev/DCT-test.git
+cd DCT-test
 
 ```
 
